@@ -1,32 +1,35 @@
-### Hello, I'm  Marcos Sousa!
-- Estudante na Faculdade de Ciências da Universidade de Lisboa . @FCUL 
-- 3º Ano da licenciatura em Tecnologias de Informação
+<h2 align="center"> Hello, I'm  Marcos Sousa! 👋</h2>
+<p align="center"> I am a 3rd and final year IT student at the Faculty of Science of the University of Lisbon.  </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/marcos-sousa-leitao"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 <hr>
-
-Technological Skills
-
+<h2>Technological Skills</h2>
+<p align="center">
+ 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+ 
+</p>
 <hr>
 
-### Tools
-  - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  - ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-  - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<h2>Databases</h2>
+ 
+ ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<hr>
+<h2>Tools devOps</h2>
 
-### How to reach me: <a href="https://www.linkedin.com/in/marcos-sousa-leitao/"> Linkedin</a>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 <!--
 **Marcos-Sousa-Developer/Marcos-Sousa-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
