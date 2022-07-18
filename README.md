@@ -1,4 +1,7 @@
-### Hi there 👋
+### Marcos Sousa
+
+👨🏻‍💻  About Me
+- 🎓   Studying IT at University of Cience in Lisbon, Portugal. @FCUL
 
 <!--
 **Marcos-Sousa-Developer/Marcos-Sousa-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
