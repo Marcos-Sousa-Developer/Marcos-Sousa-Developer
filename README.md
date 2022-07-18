@@ -1,6 +1,4 @@
-### Ola 👋
-### Sou o Marcos Sousa!
-
+### Hello, I'm  Marcos Sousa!👋
 
 <hr>
 
