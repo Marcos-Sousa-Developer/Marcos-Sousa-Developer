@@ -1,8 +1,14 @@
 ### Marcos Sousa
 
 👨🏻‍💻  About Me
-- 🎓   Studying IT at University of Cience in Lisbon, Portugal. @FCUL
+- 🎓   Studying IT at Faculty of Sciences of the University of Lisbon . @FCUL
 
+🛠  Technological Skills
+- 💻   Python Java PHP SQL
+- 🌐   HTML5 CSS3 JavaScript 
+
+📫 How to reach me:
+- www.linkedin.com/in/marcos-sousa-leitao
 <!--
 **Marcos-Sousa-Developer/Marcos-Sousa-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
