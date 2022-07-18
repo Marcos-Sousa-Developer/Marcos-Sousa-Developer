@@ -1,4 +1,4 @@
-### Hello, I'm  Marcos Sousa!👋🏾
+### Hello, I'm  Marcos Sousa!
 
 <hr>
 
