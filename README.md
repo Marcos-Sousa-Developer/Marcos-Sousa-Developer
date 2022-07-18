@@ -1,4 +1,6 @@
-### I'm Marcos Sousa
+### Ola 👋, 
+
+### Sou o Marcos Sousa!
 
 👨🏻‍💻  About Me
 - 🎓 Faculdade de Ciências da Universidade de Lisboa . @FCUL 
