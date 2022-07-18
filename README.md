@@ -4,7 +4,7 @@
 
 
 About Me
-- Faculdade de Ciências da Universidade de Lisboa . @FCUL 
+- Estudante na Faculdade de Ciências da Universidade de Lisboa . @FCUL 
 - 3º Ano da licenciatura em Tecnologias de Informação
 
 <hr>
