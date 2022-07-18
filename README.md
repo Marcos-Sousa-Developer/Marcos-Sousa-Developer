@@ -17,8 +17,9 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <div>
-  <img height="165em" src="https://github.com/Marcos-Sousa-Developer/github-readme-stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Sousa-Developer&show_icons=true&theme=dark" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Sousa-Developer&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Sousa-Developer&layout=compact&langs_count=16&theme=dark" />
 </div>
 
 
