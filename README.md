@@ -24,7 +24,7 @@
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Sousa-Developer&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Sousa-Developer&layout=compact" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Sousa-Developer&layout=compact&theme=dark" />
 </div>
 
 <hr>
