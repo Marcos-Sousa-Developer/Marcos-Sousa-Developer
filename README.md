@@ -29,7 +29,7 @@
 
 <hr>
 
-📫 How to reach me: <h4><a href="https://www.linkedin.com/in/marcos-sousa-leitao/"> Linkedin</a></h4>
+📫 How to reach me: <a href="https://www.linkedin.com/in/marcos-sousa-leitao/"> Linkedin</a>
 
 <!--
 **Marcos-Sousa-Developer/Marcos-Sousa-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
