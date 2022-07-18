@@ -17,17 +17,15 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Sousa-Developer&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Sousa-Developer&show_icons=true&theme=dark" />
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Sousa-Developer&layout=compact&langs_count=16&theme=dark" />
 </div>
 
 
 📫 How to reach me:
-- www.linkedin.com/in/marcos-sousa-leitao
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
-
+<h4><a href="https://www.linkedin.com/in/marcos-sousa-leitao/"> Linkedin</a></h4>
 
 <!--
 **Marcos-Sousa-Developer/Marcos-Sousa-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
