@@ -17,8 +17,8 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <div>
-  <img height="165em" src="https://github.com/anuraghazra/github-readme-stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+  <img height="165em" src="https://github.com/Marcos-Sousa-Developer/github-readme-stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Sousa-Developer&show_icons=true&theme=dark" />
 </div>
 
 
