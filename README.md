@@ -1,7 +1,7 @@
 ### I'm Marcos Sousa
 
 👨🏻‍💻  About Me
-- 🎓 Studying IT at Faculty of Sciences of the University of Lisbon . @FCUL 
+- 🎓 Faculdade de Ciências da Universidade de Lisboa . @FCUL 
 - 🎓 3º Ano da licenciatura em Tecnologias de Informação
 
 <hr>
