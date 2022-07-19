@@ -16,6 +16,7 @@
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  
 </p>
 <hr>
@@ -30,6 +31,25 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<h2>Projects and courses</h2>
+<p align="center">
+
+#### 2022
+
+- <img src="https://progress-bar.dev/100/?title=July"/> -> <a href="https://github.com/Marcos-Sousa-Developer/React_learn">Curso React</a>
+- <img src="https://progress-bar.dev/70/?title=June"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Space_Invaders">Game Space Invaders (JavaScript, HTML5, CSS) </a> 
+- <img src="https://progress-bar.dev/100/?title=2ºano(2ºSem)"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes">Projeto de Sistemas Inteligentes (Python)</a>
+- <img src="https://progress-bar.dev/100/?title=2ºano(2ºSem)"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Aplicacoes_Distribuidas">Projeto de Aplicações Distribuídas (Python)</a>
+- <img src="https://progress-bar.dev/100/?title=2ºano(2ºSem)"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Analise_Desenho_Software">Projeto de Análise e Desenho de Software (JAVA) </a>
+
+
+#### 2021
+- <img src="https://progress-bar.dev/100/?title=2ºano(1ºSem)"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Operativos">Projeto de Sistemas Operativos (Python)</a>
+- <img src="https://progress-bar.dev/100/?title=2ºano(1ºSem)"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Programacao_Centrada_Objetos">Projeto de Programação Centrada a Objetos (JAVA)</a>
+- <img src="https://progress-bar.dev/100/?title=1ºano"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Programacao">Projeto de Programação 1 & 2 (Python)</a>
+
+</p>
 
 
 <!--
