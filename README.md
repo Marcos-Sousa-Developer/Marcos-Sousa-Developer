@@ -4,8 +4,6 @@
 <a href="https://www.linkedin.com/in/marcos-sousa-leitao"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Marcos-Sousa-Developer&label=PROFILE+VIEWS)
-
 <hr>
 <h2>Technological Skills</h2>
 
@@ -119,3 +117,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=Marcos-Sousa-Developer&label=PROFILE+VIEWS)
