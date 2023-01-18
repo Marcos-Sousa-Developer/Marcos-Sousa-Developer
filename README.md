@@ -58,6 +58,14 @@
 
 </p>
 
+<h3>Version control</h3>
+
+<p align="center">
+ 
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ 
+</p>
+
 <h3>Tools</h3>
 
 <p align="center">
@@ -73,15 +81,6 @@
  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
  
 </p>
-
-<h3>Version control</h3>
-
-<p align="center">
- 
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
-</p>
-
 
 <h2>Projects and courses</h2>
 <p align="center">
