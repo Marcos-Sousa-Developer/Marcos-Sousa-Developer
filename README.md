@@ -6,7 +6,12 @@
 
 <hr>
 <h2>Technological Skills</h2>
-<h3>Frameworks</h3>
+<h3>Programming Languages</h3>
+<h3>Web Development</h3>
+<h3>Front-End Development</h3>
+<h3>Back-End Development</h3>
+<h3>Databases</h3>
+
 
 <p align="center">
  
