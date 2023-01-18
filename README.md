@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/marcos-sousa-leitao"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+![](https://komarev.com/ghpvc/?username=Marcos-Sousa-Developer&label=PROFILE+VIEWS)
 
 <hr>
 <h2>Technological Skills</h2>
