@@ -6,7 +6,7 @@
 
 <hr>
 <h2>Technological Skills</h2>
-<h2>Frameworks</h2>
+<h3>Frameworks</h3>
 
 <p align="center">
  
@@ -23,12 +23,12 @@
 </p>
 <hr>
 
-<h2>Databases</h2>
+<h3>Databases</h3>
  
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
  ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-<h2>Tools</h2>
+<h3>Tools</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
