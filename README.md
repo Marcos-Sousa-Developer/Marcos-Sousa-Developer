@@ -6,6 +6,8 @@
 
 <hr>
 <h2>Technological Skills</h2>
+<h2>Frameworks</h2>
+
 <p align="center">
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
