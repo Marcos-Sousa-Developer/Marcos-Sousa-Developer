@@ -87,12 +87,19 @@
 <h2>Projects and courses</h2>
 <p align="center">
 
-#### 2022
-
+#### 2022 (2ºSemestre)
 - <img src="https://progress-bar.dev/60/?title=August"/> -> <a href="https://github.com/Marcos-Sousa-Developer/React_Website_Test">React Website Test</a>
 - <img src="https://progress-bar.dev/100/?title=July"/> -> <a href="https://github.com/Marcos-Sousa-Developer/React_learn">Curso React</a>
 - <img src="https://progress-bar.dev/70/?title=June"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Space_Invaders">Game Space Invaders (JavaScript, HTML5, CSS) </a> 
-- <img src="https://progress-bar.dev/100/?title=2ºano(2ºSem)"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes">Projeto de Sistemas Inteligentes (Python)</a>
+- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes">Projeto de Sistemas Inteligentes (Python)</a>
+
+#### 2022 (1ºSemestre)
+#### 2021 (2ºSemestre)
+#### 2021 (1ºSemestre)
+
+
+
+
 - <img src="https://progress-bar.dev/100/?title=2ºano(2ºSem)"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Aplicacoes_Distribuidas">Projeto de Aplicações Distribuídas (Python)</a>
 - <img src="https://progress-bar.dev/100/?title=2ºano(2ºSem)"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Analise_Desenho_Software">Projeto de Análise e Desenho de Software (JAVA) </a>
 
