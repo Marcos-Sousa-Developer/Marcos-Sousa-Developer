@@ -88,10 +88,12 @@
 <p align="center">
 
 #### 2022 (2ºSemestre)
-- <img src="https://progress-bar.dev/60/?title=August"/> -> <a href="https://github.com/Marcos-Sousa-Developer/React_Website_Test">React Website Test</a>
-- <img src="https://progress-bar.dev/100/?title=July"/> -> <a href="https://github.com/Marcos-Sousa-Developer/React_learn">Curso React</a>
-- <img src="https://progress-bar.dev/70/?title=June"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Space_Invaders">Game Space Invaders (JavaScript, HTML5, CSS) </a> 
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes">Projeto de Sistemas Inteligentes (Python)</a>
+- <img src="https://progress-bar.dev/60"/> -> <a href="https://github.com/Marcos-Sousa-Developer/React_Website_Test">React Website Test</a>
+- <img src="https://progress-bar.dev/100"/> -> <a href="https://github.com/Marcos-Sousa-Developer/React_learn">Curso React</a>
+- <img src="https://progress-bar.dev/70"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Space_Invaders">Game Space Invaders</a> 
+- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes">Projeto3 de Sistemas Inteligentes (Python)</a>
+- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes">Projeto2 de Sistemas Inteligentes (Python)</a>
+- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes">Projeto1 de Sistemas Inteligentes (Python)</a>
 
 #### 2022 (1ºSemestre)
 #### 2021 (2ºSemestre)
