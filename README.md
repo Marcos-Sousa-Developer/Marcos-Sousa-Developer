@@ -87,33 +87,7 @@
 <h2>Projects and courses</h2>
 <p align="center">
 
-#### 2022 (2ºSemestre)
-- <img src="https://progress-bar.dev/60"/> -> <a href="https://github.com/Marcos-Sousa-Developer/React_Website_Test">React Website Test</a>
-- <img src="https://progress-bar.dev/100"/> -> <a href="https://github.com/Marcos-Sousa-Developer/React_learn">Curso React</a>
-- <img src="https://progress-bar.dev/70"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Space_Invaders">Game Space Invaders</a> 
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Aplicacoes_Distribuidas_v4">Projeto4 de Aplicações Distribuídas</a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Aplicacoes_Distribuidas_v3">Projeto3 de Aplicações Distribuídas</a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Aplicacoes_Distribuidas_v2">Projeto2 de Aplicações Distribuídas</a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Aplicacoes_Distribuidas_v1">Projeto1 de Aplicações Distribuídas</a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes_v3">Projeto3 de Sistemas Inteligentes</a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes_v2">Projeto2 de Sistemas Inteligentes</a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistemas_Inteligentes_v1">Projeto1 de Sistemas Inteligentes</a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Analise_Desenho_Software">Projeto de Análise e Desenho de Software</a>
-
-#### 2022 (1ºSemestre)
- 
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistema_Operativos_v2">Projeto2 de Sistemas Operativos</a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Sistema_Operativos_v1">Projeto1 de Sistemas Operativos</a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Programacao_Centrada_Objetos_v3">Projeto3 de Programação Centrada a Objetos </a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Programacao_Centrada_Objetos_v3">Projeto2 de Programação Centrada a Objetos </a>
-- <img src="https://progress-bar.dev/100/"/> -> <a href="https://github.com/Marcos-Sousa-Developer/Programacao_Centrada_Objetos_v3">Projeto1 de Programação Centrada a Objetos</a>
-
- 
-#### 2021 (2ºSemestre)
-#### 2021 (1ºSemestre)
-
-
-
+- <a href="https://github.com/Marcos-Sousa-Developer?tab=repositories">React Website Test</a>
 
 </p>
 
