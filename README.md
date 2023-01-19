@@ -82,9 +82,7 @@
  
 </p>
 
-<hr>
-
-<h2>To see my projects and courses, <a href="https://github.com/Marcos-Sousa-Developer?tab=repositories">click here</a></h2>
+<h5>To view my projects and courses, <a href="https://github.com/Marcos-Sousa-Developer?tab=repositories">click here!</a></h5>
 <p align="center">
 
 </p>
