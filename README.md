@@ -82,11 +82,8 @@
  
 </p>
 
-<h5>To view my projects and courses, <a href="https://github.com/Marcos-Sousa-Developer?tab=repositories">click here!</a></h5>
-<p align="center">
-
-</p>
-
 <hr>
+
+<h5>To view my projects and courses, <a href="https://github.com/Marcos-Sousa-Developer?tab=repositories">click here!</a></h5>
 
 ![](https://komarev.com/ghpvc/?username=Marcos-Sousa-Developer&label=PROFILE+VIEWS)
