@@ -87,7 +87,7 @@
 <h2>Projects and courses</h2>
 <p align="center">
 
-- <a href="https://github.com/Marcos-Sousa-Developer?tab=repositories">React Website Test</a>
+- <a href="https://github.com/Marcos-Sousa-Developer?tab=repositories">My Projects</a>
 
 </p>
 
