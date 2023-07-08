@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm  Marcos Sousa! 👋</h1>
-<p align="center"> I am a 3rd and final year IT student at the Faculty of Science of the University of Lisbon.  </p>
+<p align="center"> I am a Fullstack Developer and Ethical Hacking and Cybersecurity enthusiast.  </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/marcos-sousa-leitao"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
